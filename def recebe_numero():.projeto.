@@ -1,0 +1,6 @@
+def recebe_numero():
+    input var = (digite primeiro_numero):
+    input var = (digite segundo_numero):
+    input var = (digite terceiro_numero):
+        print = 
+    

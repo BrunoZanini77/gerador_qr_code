@@ -1,0 +1,8 @@
+from tkinter import *
+import tkinter as tk
+import qrcode
+from PIL import Image, ImageTk
+from tkinter import messagebox
+from main.py
+
+
